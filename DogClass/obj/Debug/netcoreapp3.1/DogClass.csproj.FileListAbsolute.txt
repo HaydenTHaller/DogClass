@@ -1,0 +1,11 @@
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass.deps.json
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass.runtimeconfig.json
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass.runtimeconfig.dev.json
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass.dll
+/Users/haydenhaller/Desktop/C#/DogClass/bin/Debug/netcoreapp3.1/DogClass.pdb
+/Users/haydenhaller/Desktop/C#/DogClass/obj/Debug/netcoreapp3.1/DogClass.csprojAssemblyReference.cache
+/Users/haydenhaller/Desktop/C#/DogClass/obj/Debug/netcoreapp3.1/DogClass.AssemblyInfoInputs.cache
+/Users/haydenhaller/Desktop/C#/DogClass/obj/Debug/netcoreapp3.1/DogClass.AssemblyInfo.cs
+/Users/haydenhaller/Desktop/C#/DogClass/obj/Debug/netcoreapp3.1/DogClass.dll
+/Users/haydenhaller/Desktop/C#/DogClass/obj/Debug/netcoreapp3.1/DogClass.pdb
